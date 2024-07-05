@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/oo7vedant-IIITD/Multimodal-Prediction-of-Cardiovascular-Disease">
-    <img src="blob/main/readme_images/logo.png" alt="Logo" width="80" height="80">
+    <img src="readme_images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Multimodal-Prediction-of-Cardiovascular-Disease</h3>
