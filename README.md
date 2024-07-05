@@ -22,5 +22,5 @@
     <br />
 </p>
 
-**Source Code Link** -> [Click Here](https://github.com/oo7vedant-IIITD/Multimodal-Prediction-of-Cardiovascular-Disease/Source_Code)
+**Source Code Link** -> [Click Here](https://github.com/oo7vedant-IIITD/Multimodal-Prediction-of-Cardiovascular-Disease/tree/main/Source_Code)
 <br>
