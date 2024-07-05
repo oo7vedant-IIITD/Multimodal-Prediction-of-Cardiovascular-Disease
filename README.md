@@ -123,4 +123,4 @@ Email ID - vedant20261@iiitd.ac.in
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: readme-images/Heat_map.png
+[product-screenshot]: https://github.com/oo7vedant-IIITD/Multimodal-Prediction-of-Cardiovascular-Disease/blob/main/readme_images/Heat_map.png
