@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/oo7vedant-IIITD/Multimodal-Prediction-of-Cardiovascular-Disease">
-    <img src="readme_images/logo.png" alt="Logo" width="120" height="120">
+    <img src="readme_images/logo.png" alt="Logo" width="160" height="160">
   </a>
 
   <h3 align="center">Multimodal-Prediction-of-Cardiovascular-Disease</h3>
@@ -64,6 +64,16 @@ Cardiovascular diseases (heart diseases) are the leading global cause of death, 
 * [Python](https://www.python.org/) 
 * [Google Colab](https://colab.google/)
 * [GitHub](https://github.com)
+* Libraries Used:
+  * [NumPy](https://numpy.org/) - Numerical computing library
+  * [Pandas](https://pandas.pydata.org/) - Data manipulation and analysis
+  * [Matplotlib](https://matplotlib.org/) - Data visualization
+  * [Seaborn](https://seaborn.pydata.org/) - Statistical data visualization
+  * [XGBoost](https://xgboost.readthedocs.io/en/stable/) - Gradient boosting library
+  * [LightGBM](https://lightgbm.readthedocs.io/en/stable/) - Gradient boosting library
+  * [Scikit-learn](https://scikit-learn.org/stable/) - Machine learning library
+  * [Keras](https://keras.io/) - Deep learning library (with TensorFlow backend)
+  * [TensorFlow](https://www.tensorflow.org/) - Deep learning framework
 
 
 <!-- GETTING STARTED -->
